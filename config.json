@@ -1,13 +1,13 @@
 {
-  "token": "",
+  "token": "NzQxNDE4OTc2NzEzNzY4OTcx.Xy3SOg.CIC1TVEDsaDmy1FMmw8LSLZJu-A",
   "join_message": "I has joined to do stuff 🌟",
   "owners": [
-    86477779717066752
+    129007875233284096
   ],
   "prefix": [
-    "!"
+    "pin"
   ],
-  "playing": "games!",
+  "playing": "https://discord.gg/eHpSDY2",
   "playing_type": "playing|watching|listening",
   "status_type": "online|idle|dnd",
   "version": "2.0.1"
